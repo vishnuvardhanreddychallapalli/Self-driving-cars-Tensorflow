@@ -1,2 +1,7 @@
 # Self-driving-cars-Tensorflow
-Description This project is about building a real-time object detection application that can annotate images, videos and webcam captures using the new Tensorflow’s Object Detection API (and its selection of pre-trained convolutional networks, the so-called Tensorflow detection model zoo) and OpenCV. The project depicts step to step building of such a real-time object recognition. The complete project done on the Coco dataset (http://mscoco.org/) and some images processed by my own webcam.  Tools used Tensorflow Object Detection API OpenCV Real-time image processing
+Description This project is about building an end to end real-time deeplearning application that can predict the steering angle given an real time image of the car on the raod using the new Tensorflow and the NVIDIA Self drining car paper OpenCV. The sole idea of this project is to see how can a Convolutional neural network Perform on this dataset.The project depicts step to step building of a driving car as it is mentioned in the NVIDIA Self driving car paper.
+# Tools used are:
+1.Tensor Flow.
+2.open cv
+3.scipy
+4.Numpy
